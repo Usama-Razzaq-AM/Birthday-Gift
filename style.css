@@ -68,18 +68,26 @@ h1,h2,h3,h4,p {
 
 #happy-img:hover {
     background-image: url("images/happy.gif");
+    background-size: cover;
+    background-position: center;
 }
 
 #hot-img:hover {
     background-image: url("images/hot.gif");
+    background-size: cover;
+    background-position: center;
 }
 
 #genius-img:hover {
     background-image: url("images/genius.gif");
+    background-size: cover;
+    background-position: center;
 }
 
 #badass-img:hover {
     background-image: url("images/badass.webp");
+    background-size: cover;
+    background-position: center;
 }
 
 #cheers-img {
@@ -88,6 +96,8 @@ h1,h2,h3,h4,p {
 
 #cheers-img:hover {
     background-image: url("images/cheers.webp");
+    background-size: cover;
+    background-position: center;
 }
 
 #footer {
